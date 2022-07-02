@@ -1,14 +1,13 @@
 import React from "react";
+import HeaderTop from "../components/HeaderTop";
+import HeaderMain from "../components/HeaderMain";
 
 const Header = () => {
   return (
-    <Header>
-      <div>
-        <div></div>
-        <div></div>
-      </div>
-      <div></div>
-    </Header>
+    <div>
+      <HeaderTop />
+      <HeaderMain />
+    </div>
   );
 };
 

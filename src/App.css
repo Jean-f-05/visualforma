@@ -1,0 +1,53 @@
+.header {
+  width: 100%;
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+}
+
+.header__top {
+  background-color: #246970;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 0.5rem;
+}
+
+.header__top div:first-child {
+  margin-right: auto;
+  margin-left: 15rem;
+}
+
+.header__top div:last-child {
+  margin-left: auto;
+  margin-right: 15rem;
+}
+
+.navIcon {
+  height: 2rem;
+  fill: #fff;
+  color: #fff;
+  margin-right: 2rem;
+}
+
+.header__main-container {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  padding: 2rem;
+}
+
+.header__main-li {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #246970;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
