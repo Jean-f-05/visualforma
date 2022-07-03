@@ -1,0 +1,24 @@
+.header__top {
+  background-color: #246970;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 0.5rem;
+}
+
+.header__top div:first-child {
+  margin-right: auto;
+  margin-left: 15rem;
+}
+
+.header__top div:last-child {
+  margin-left: auto;
+  margin-right: 15rem;
+}
+
+.navIcon {
+  height: 2rem;
+  fill: #fff;
+  color: #fff;
+  margin-right: 2rem;
+}

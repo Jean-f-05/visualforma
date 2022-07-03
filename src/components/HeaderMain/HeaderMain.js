@@ -1,9 +1,10 @@
-import imgAutarquia from "../assets/imgs/Camada 1.png";
-import HeaderListElement from "./HeaderListElement";
+import imgAutarquia from "../../assets/imgs/Camada 1.png";
+import HeaderListElement from "../HeaderListElement/HeaderListElement";
+import styles from "./HeaderMain.module.css";
 
 const HeaderMain = () => {
   return (
-    <ul className="header__main-container">
+    <ul className={styles["header__main-container"]}>
       <HeaderListElement
         src={imgAutarquia}
         alt="Icon Autarquia"

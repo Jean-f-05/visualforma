@@ -1,11 +1,11 @@
 import React from "react";
-import "./App.css";
-import Header from "./layout/Header";
+import Header from "./layout/Header/Header/Header";
+import styles from "./App.module.css";
 
 const App = () => {
   return (
     <React.Fragment>
-      <Header className="header"></Header>
+      <Header className={styles.header}></Header>
       {/* <Card></Card> */}
     </React.Fragment>
   );
