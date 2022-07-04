@@ -1,6 +1,6 @@
 import React from "react";
-import HeaderTop from "../../../components/HeaderTop/HeaderTop";
-import HeaderMain from "../../../components/HeaderMain/HeaderMain";
+import HeaderTop from "../../../components/Header/HeaderTop/HeaderTop";
+import HeaderMain from "../../../components/Header/HeaderMain/HeaderMain";
 
 const Header = () => {
   return (

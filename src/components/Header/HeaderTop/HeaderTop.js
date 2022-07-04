@@ -1,6 +1,6 @@
-import { ReactComponent as IconFace } from "../../assets/icons/logo-facebook.svg";
-import { ReactComponent as IconInsta } from "../../assets/icons/logo-instagram.svg";
-import { ReactComponent as IconSearch } from "../../assets/icons/search-outline.svg";
+import { ReactComponent as IconFace } from "../../../assets/icons/logo-facebook.svg";
+import { ReactComponent as IconInsta } from "../../../assets/icons/logo-instagram.svg";
+import { ReactComponent as IconSearch } from "../../../assets/icons/search-outline.svg";
 import styles from "./HeaderTop.module.css";
 
 const HeaderTop = () => {

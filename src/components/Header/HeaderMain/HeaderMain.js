@@ -1,4 +1,4 @@
-import imgAutarquia from "../../assets/imgs/Camada 1.png";
+import imgAutarquia from "../../../assets/imgs/Camada 1.png";
 import HeaderListElement from "../HeaderListElement/HeaderListElement";
 import styles from "./HeaderMain.module.css";
 

@@ -1,4 +1,4 @@
-import SpanImage from "../../SpanImage/SpanImage";
+import SpanImage from "../SpanImage/SpanImage";
 import ArrowLeftBg from "../../Arrows/ArrowLeftBg/ArrowLeftBg";
 import ArrowRightBg from "../../Arrows/ArrowRightBg/ArrowRightBg";
 
