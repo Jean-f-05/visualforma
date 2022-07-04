@@ -1,0 +1,13 @@
+.hero__section {
+  margin-bottom: 5rem;
+}
+
+.hero__bg {
+  height: 57rem;
+  width: 116rem;
+  background: url("../../../assets/imgs/Vidigueira_Vila_de_Frades_-_Vidigueira.png")
+    rgb(28, 28, 28, 0.6);
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  position: relative;
+}

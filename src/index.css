@@ -19,3 +19,13 @@ body {
   background-color: #f1f9ff;
   color: #555;
 }
+
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: inherit;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
