@@ -22,7 +22,7 @@ const NewsCards = () => {
         </Card>
 
         <Card type="eco" date="27 - 07 - 2020">
-          Regularizada a situação da interrupção do fornecimento ...>
+          Regularizada a situação da interrupção do fornecimento ...
         </Card>
       </div>
     </section>
