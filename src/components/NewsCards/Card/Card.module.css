@@ -1,0 +1,59 @@
+.card {
+  width: 34rem;
+}
+
+.img {
+  height: 19rem;
+  width: 34rem;
+  background-image: url("../../../assets//imgs/unnamed.png");
+}
+
+.tour {
+  background-color: #246970;
+  color: #246970;
+}
+
+.eco {
+  background-color: #69a391;
+  color: #69a391;
+}
+.info {
+  height: 20.5rem;
+  background-color: #fff;
+  display: block;
+  padding: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.date {
+  color: inherit;
+  font-size: 1.3rem;
+  letter-spacing: 0.65px;
+}
+
+.text {
+  color: #3e3e40;
+  font-size: 2rem;
+}
+
+.details {
+  color: inherit;
+  font-size: 1.4rem;
+  font-weight: 500;
+  text-transform: none;
+}
+
+.arrow {
+  height: 1.5rem;
+  fill: #246970;
+}
+
+.test {
+  display: flex;
+  gap: 2rem;
+  justify-content: flex-start;
+  align-items: center;
+}

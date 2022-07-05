@@ -1,0 +1,19 @@
+.categorie {
+  margin: 1rem;
+  padding: 0.6rem 1.2rem;
+  display: inline-block;
+  color: #fff !important;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+.tour {
+  background-color: #246970;
+  color: #246970;
+}
+
+.eco {
+  background-color: #69a391;
+  color: #69a391;
+}

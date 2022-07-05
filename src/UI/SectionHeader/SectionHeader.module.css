@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 4rem;
+}
+
+.header__title {
+  font-size: 1.8rem;
+  font-weight: 500;
+  color: #3e3e40;
+  letter-spacing: 0.9px;
+  text-transform: uppercase;
+}
+
+.header__anchor {
+  font-size: 1.6rem;
+  color: inherit;
+  letter-spacing: 0.8px;
+}

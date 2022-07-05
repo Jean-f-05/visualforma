@@ -1,0 +1,8 @@
+.newsCards {
+  display: flex;
+  gap: 5rem;
+}
+
+.section {
+  margin-bottom: 15rem;
+}
